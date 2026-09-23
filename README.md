@@ -4,8 +4,10 @@ The Jasic language website built with Jekyll.
 
 ## Local development
 
+Install Bundler first if it is not already available:
+
 ```sh
-gem install bundler -v 2.4.19
-bundle _2.4.19_ install
-bundle _2.4.19_ exec jekyll serve
+gem install bundler
+bundle install
+bundle exec jekyll serve
 ```
