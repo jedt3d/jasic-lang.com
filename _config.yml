@@ -1,0 +1,10 @@
+title: Jasic
+description: >-
+  The Jasic programming language website built with Jekyll.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - about.md
